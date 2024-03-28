@@ -1,7 +1,7 @@
 +++
 title = "Perisa Buchmann"
 date = "2023-01-01"
-draft = true
+draft = false
 pinned = false
 tags = ["Lilo", "Example"]
 image = "/img/default-image.jpg"
