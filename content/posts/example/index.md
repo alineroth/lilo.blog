@@ -1,79 +1,46 @@
 +++
-title = "Example Post"
+title = "Perisa Buchmann"
 date = "2023-01-01"
-draft = false
+draft = true
 pinned = false
-tags = [ "Lilo", "Example" ]
+tags = ["Lilo", "Example"]
 image = "/img/default-image.jpg"
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
+description = "Über Perisa Buchmann die so schön ist das man es kaum fassen kann. Sie ist eine juge liebe Frau die von ihren Freundinnen Schnüggeli genannt wird."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
+In einer malerischen kleinen Stadt, umgeben von sanften Hügeln und einem klaren Fluss, lebte eine junge Frau namens Perisa Buchmann. Sie war für ihre atemberaubende Schönheit bekannt, die die Menschen in ihrer Umgebung immer wieder in Erstaunen versetzte.
 
-{{<lead>}}
-In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen.
-{{</lead>}}
+Perisa, liebevoll von ihren Freunden "das Schnüggeli" genannt, besaß eine Schönheit, die jenseits der Worte lag. Ihr langes, seidiges Haar fiel in sanften Wellen über ihre Schultern, umrahmte ihr Gesicht mit einer bezaubernden Eleganz. Die Augen von Perisa waren wie zwei funkelnde Edelsteine, tief und geheimnisvoll, und sie strahlten eine unbeschreibliche Wärme aus. Ihre Lippen trugen stets ein bezauberndes Lächeln, das die Herzen der Menschen im Sturm eroberte.
 
-Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
+Perisa war jedoch nicht nur schön von außen, sondern auch von innen. Sie besaß eine Güte und Sanftmut, die jeden, der ihr begegnete, berührte. Sie war stets bereit, anderen zu helfen und ein offenes Ohr für ihre Sorgen zu haben. Ihre Freundlichkeit kannte keine Grenzen, und sie verbreitete Freude und Liebe, wohin sie auch ging.
 
-# Überschrift 1
+Die Menschen in der Stadt bewunderten Perisa nicht nur für ihre äußere Schönheit, sondern auch für ihre inneren Qualitäten. Sie war eine Quelle der Inspiration für viele, die von ihrem edlen Charakter und ihrer aufrichtigen Freundlichkeit beeindruckt waren.
 
-So sieht die grösste Überschrift aus (H1).
+Eines Tages kam ein Wanderer in die Stadt, ein junger Mann namens David, der von fernen Ländern und Abenteuern träumte. Als er Perisa zum ersten Mal sah, war er sofort von ihrer Schönheit und Anmut verzaubert. Doch während er sich langsam in Perisa verliebte, erkannte er auch ihre wahren Qualitäten jenseits ihres Aussehens. Er schätzte ihre Freundlichkeit, ihre Sanftmut und ihre Großzügigkeit und erkannte, dass sie weit mehr war als nur ein hübsches Gesicht.
 
-## Überschrift 2
+Die beiden verbrachten viel Zeit miteinander, teilten ihre Träume und Hoffnungen und erlebten gemeinsam viele Abenteuer. Mit der Zeit wuchs ihre Liebe und Festigkeit, und sie wussten, dass sie füreinander bestimmt waren.
 
-Dies ist die Überschrift 2 (H2).
+Perisa Buchmann, das Schnüggeli, war nicht nur eine Frau von atemberaubender Schönheit, sondern auch eine Seele voller Güte und Liebe, die die Herzen der Menschen berührte und die Welt um sie herum mit ihrem Licht erhellt. Und in ihrer Liebe zu David fand sie das größte Glück, das sie sich je hätte vorstellen können
 
-### Überschrift 3
 
-Die Überschrift 3 ist nicht mehr im Menu verfügbar. Wenn man sie verwenden will, muss man in den `Markdown`-Modus wechseln und dort eine Überschrift mit drei Hastags einleiten: `### Überschrift 3`
 
-#### Überschrift 4
 
-Auch Überschrift 4 muss im `Markdown`-Modus erstellt werden: `#### Überschrift 4`
 
-## Weitere Textformatierungen
 
-Am besten einfach alle Formatierungsmöglichkeiten in der Toolbar von `Inhalt` mal ausprobieren.
 
-### Fett und Kursiv
 
-Natürlich gibt es auch **fett** und _kursiv_.
 
-### Links
 
-[So können Links angegeben werden](https://www.lilo.blog). Wenn man in den `Markdown`-Modus wechselt, sieht man auch, welcher Link hinterlegt worden ist.
 
-### Zitate
 
-> «Zitate können hervorgehoben werden.»
->
-> _Autor mit [Link zur Quelle](https://www.lilo.blog)_
 
-Die Quellenangabe muss _kursiv_ geschrieben werden, damit sie als Fusszeile erkannt wird.
 
-### Liste
 
-So sieht eine Liste aus:
 
-- Nam de isto magna dissensio est.
-- Mihi, inquam, qui te id ipsum rogavi?
-- Haec et tu ita posuisti, et verba vestra sunt.
-- Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
 
-### Nummerierte Liste
 
-Und so eine nummerierte Liste:
 
-1. Nam de isto magna dissensio est.
-2. Mihi, inquam, qui te id ipsum rogavi?
-3. Haec et tu ita posuisti, et verba vestra sunt.
-4. Idem fecisset Epicurus, si sententiam hanc, quae nunc Hieronymi est, coniunxisset cum Aristippi vetere sententia.
-
-## Bilder
-
-Bilder werden mit dem `+`-Symbol eingefügt.
-
-![Der Alt-Text wird jeweils als Bildunterschrift angezeigt.](/img/default-image.jpg)
+![<3](bildschirmfoto-2022-08-25-um-14.45.55-kopie.png "Perisa Buchmann das Schnüggeli")
 
 **Empfehlung für Bilder**: Meist empfiehlt sich, ein Bild ganz zuoberst im `Inhalt`-Feld einzufügen. Zusätzlich sollte man dieses auch im `Bild`-Feld angeben, damit es in der Blogübersicht erscheint.
 
@@ -89,7 +56,7 @@ Wenn bei einem Bild ein `ALT TEXT` erfasst wird, so wird dieser als Bilduntersch
 
 Eine Horizontale Linie kann man entweder durch ein `<hr>` einfügen oder indem man im `Markdown`-Modus drei Striche `---` einfügt. So sieht die Linie aus:
 
----
+- - -
 
 ## Lead
 
@@ -97,8 +64,8 @@ Eine Horizontale Linie kann man entweder durch ein `<hr>` einfügen oder indem m
 Oft haben Artikel unterhalb des Haupttitels einen einführenden Lead, der etwas grösser dargestellt wird.
 {{</lead>}}
 
-`{{</*lead*/>}}`  
-Ein Lead steht zwischen zwei solchen Blöcken.  
+`{{</*lead*/>}}`\
+Ein Lead steht zwischen zwei solchen Blöcken.\
 `{{</*/lead*/>}}`
 
 ## Kasten
@@ -107,8 +74,8 @@ Ein Lead steht zwischen zwei solchen Blöcken.
 In dieser Box können Texte, Bilder, Videos oder andere Inhalte dargestellt werden.
 {{</box>}}
 
-`{{</*box*/>}}`  
-Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.  
+`{{</*box*/>}}`\
+Der Inhalt einer Box muss wie hier von zwei Blöcken umgeben werden.\
 `{{</*/box*/>}}`
 
 {{<box title="Ausklappbare Box">}}
@@ -121,8 +88,8 @@ Dies eignet sich auch für längere Inhalte.
 Auch Bilder können in eine Box gepackt werden.
 {{</box>}}
 
-`{{</*box title="Ausklappbare Box"*/>}}`  
-Wird ein Titel angegeben, so kann die Box ausgeklappt werden.  
+`{{</*box title="Ausklappbare Box"*/>}}`\
+Wird ein Titel angegeben, so kann die Box ausgeklappt werden.\
 `{{</*/box*/>}}`
 
 ## Video, Audio und andere Medien einbetten
